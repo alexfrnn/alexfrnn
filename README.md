@@ -1,12 +1,15 @@
 ### Olá, eu sou Alex Fernando! 👋😎
 <head>
+   <h4>
   <ul>
     <li>
-      Estou aprendendo java e um pouco de cada coisa
+      Estou aprendendo  e desenvolvendo em JAVA
+    </li>
+    <li>
+ Pronous: He/Him
     </li>
   </ul>
-  <h1>
-  </h1>
+  </h4>
   </head>
 <div>
   <a href="https://github.com/alexfrnn">
