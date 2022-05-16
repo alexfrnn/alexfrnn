@@ -1,5 +1,6 @@
 ### Olá, me chamo Alex! 👋😎
 * Estou estudando java
+* Pronous: He/Him
 ##
 ![alexfrnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfrnn&show_icons=true&theme=tokyonight&count_private=true)
 ##
