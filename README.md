@@ -1,18 +1,8 @@
 Hi 👋 My name is Alex Fernando
 ==============================
 
-Aspiring Back-end Developer | Aspiring Cyebrsecurity Analyst
-------------------------------------------------------------
-
 * 🌍  I'm based in Pernambuco,, Brasil
-* ✉️  You can contact me at [alex1fernando@outlook.com](mailto:alex1fernando@outlook.com)
 * 🧠  I'm learning Java and C#, .NET, MySQL
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/alexfrnn"><img src="https://github-readme-stats.vercel.app/api?username=alexfrnn&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=3382ed&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="alexfrnn's GitHub stats" /></a> <a href="https://github.com/alexfrnn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfrnn&langs_count=10&title_color=14b8a6&text_color=3382ed&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Skills
 
@@ -23,4 +13,12 @@ Aspiring Back-end Developer | Aspiring Cyebrsecurity Analyst
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/alexfrnn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/alex1fernando" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/alexfrnn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alex1fernando" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/alexfrnn"><img src="https://github-readme-stats.vercel.app/api?username=alexfrnn&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=3382ed&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="alexfrnn's GitHub stats" /></a> <a href="https://github.com/alexfrnn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfrnn&langs_count=10&title_color=14b8a6&text_color=3382ed&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/alexfrnn"><img src="https://activity-graph.herokuapp.com/graph?username=alexfrnn&&count_private=true&bg_color=0f172a&color=3382ed&line=10b981&point=3382ed&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
