@@ -23,8 +23,3 @@ Hi 👋 My name is Alex Fernando
 
 <a href="http://www.github.com/alexfrnn"><img src="https://activity-graph.herokuapp.com/graph?username=alexfrnn&&count_private=true&bg_color=0f172a&color=3382ed&line=10b981&point=3382ed&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-## Total de visitas no meu perfil <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/alexfrnn/count.svg" />
- </p>
-
