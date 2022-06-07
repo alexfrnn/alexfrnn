@@ -2,7 +2,7 @@ Hi 👋 My name is Alex Fernando
 ==============================
 
 * 🌍  I'm based in Pernambuco,, Brasil
-* 🧠  I'm learning Java and C#, .NET, MySQL
+* 🧠  I'm currently learning Javascript, HTML, CSS
 
 ### Skills
 
