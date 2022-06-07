@@ -22,3 +22,9 @@ Hi 👋 My name is Alex Fernando
 <a href="http://www.github.com/alexfrnn"><img src="https://github-readme-stats.vercel.app/api?username=alexfrnn&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=3382ed&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="alexfrnn's GitHub stats" /></a> <a href="https://github.com/alexfrnn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfrnn&langs_count=10&title_color=14b8a6&text_color=3382ed&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/alexfrnn"><img src="https://activity-graph.herokuapp.com/graph?username=alexfrnn&&count_private=true&bg_color=0f172a&color=3382ed&line=10b981&point=3382ed&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+## Total de visitas no meu perfil <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/alexfrnn/count.svg" />
+ </p>
+
