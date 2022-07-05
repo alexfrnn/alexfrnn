@@ -5,7 +5,7 @@ Hi, I'm Alex!
 
 🧗‍♂️I'm aspiring Back-end Developer.
 
-Pronouns: Ele/Dele.
+Pronouns: He/Him.
 
 ##
 
