@@ -1,11 +1,11 @@
-
-
-<img src="https://giphy.com/gifs/ilegrabr-fryY00CO4xCz4uJuDQ" align="right" >
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+  <img src="https://media.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy-downsized.gif" align="right" >
+</div>
 
 
 Hi, I'm Alex!
 
-🧗‍♂️I'm aspiring Back-end Developer.
+🧗‍♂️I'm aspiring backend developer.
 
 Pronouns: He/Him.
 
