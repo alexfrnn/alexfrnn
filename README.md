@@ -1,13 +1,11 @@
-<div >
-  <img src="https://media.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy-downsized.gif" align="right"  width="205" height="280" >
-</div>
 
+# Hi, I'm Alex!
 
-Hi, I'm Alex!
-
-🧗‍♂️I'm aspiring data engineer.
-
-Pronouns: He/Him.
+- 🧗‍♂️I'm aspiring data engineer.
+- Currently learning python, java and automation
+- Pronouns: He/Him. 
+                                              <img src="https://media.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy-downsized.gif" align="right"  width="205" height="280" >
+                              
 
 ##
 
