@@ -1,11 +1,11 @@
 <div >
-  <img src="https://media.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy-downsized.gif" align="right"  width="400" height="275" >
+  <img src="https://media.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy-downsized.gif" align="right"  width="300" height="175" >
 </div>
 
 
 Hi, I'm Alex!
 
-🧗‍♂️I'm aspiring backend developer.
+🧗‍♂️I'm aspiring data engineer.
 
 Pronouns: He/Him.
 
