@@ -4,7 +4,7 @@
 - 🧗‍♂️I'm aspiring data engineer.
 - Currently learning python, java and automation
 - Pronouns: He/Him. 
-                                              <img src="https://media.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy-downsized.gif" align="right"  width="205" height="280" >
+                                              <img src="https://media.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy-downsized.gif" align="right"  width="295" height="255" >
                               
 
 ##
