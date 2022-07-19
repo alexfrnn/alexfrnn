@@ -2,9 +2,10 @@
 # Hi, I'm Alex!
 
 - 🧗‍♂️I'm aspiring data engineer.
-- Currently learning python, java and automation
+- Currently learning python, java and automation                                                                                <img src="https://media.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy-downsized.gif" align="right"  width="295" height="255">
 - Pronouns: He/Him. 
-                                              <img src="https://media.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy-downsized.gif" align="right"  width="295" height="255" >
+
+
                               
 
 ##
