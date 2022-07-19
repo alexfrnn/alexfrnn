@@ -1,4 +1,6 @@
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/man-raising-hand-medium-dark-skin-tone_1f64b-1f3fe-200d-2642-fe0f.png" align="right" alt="Man Raising Hand: Medium-Dark Skin Tone">
+
+
+<img src="https://giphy.com/gifs/ilegrabr-fryY00CO4xCz4uJuDQ" align="right" >
 
 
 Hi, I'm Alex!
