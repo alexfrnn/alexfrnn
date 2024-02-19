@@ -1,7 +1,7 @@
 ## Hi! <img width=4% height=6% src="https://em-content.zobj.net/source/microsoft-teams/363/party-popper_1f389.png">
 ![https://giphy.com/gifs/maudit-kikis-delivery-service-dr1E6MHXSg52M"](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI5d3B6eWZkYXNpaDRjc3lsM3JrM2N3bDdla3V5OWUwNjhiNXd3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dr1E6MHXSg52M/giphy.gif)
 
-- 🌱 I’m currently learning learning Python, Cloud Computing, C#, Big Data and others contents that I like and it will improve my skills
+- 🌱 I’m currently learning learning Apex, SQL, Dev Container and others contents that I like and it will improve my skills
 - 😄 Pronouns: he/him
 
 ## Socials
