@@ -35,21 +35,21 @@ Hi I'm Alex! U well?
 <details>
  <summary>🌿 Github Stats </summary>
  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alexfrnn&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="alexfrnn's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexfrnn&hide=issues,&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&hide_border=true&show_icons=true" alt="alexfrnn's GitHub stats" />
  </p>
 </details>
 
 <details>
   <summary>🏮 Github Streak </summary>
     <p>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexfrnn&stroke=64748b&background=171717&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alexfrnn&theme=catppuccin-macchiato" alt="GitHub Streak" /></a>
     </p>
 </details>
 
 <details>
   <summary> 🎫 Top Languages </summary>
     <p>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfrnn&langs_count=10&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfrnn&langs_count=10&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
     </p>
 </details>
 
