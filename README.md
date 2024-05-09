@@ -1,4 +1,4 @@
-Hi I'm Alex! U well?
+Hi I'm Alex! U well? I'm a undergrad Information Systems aspiring to be software engineer and cloud engineer
 ============================================================================================================================
 
 <img width=40% height=100% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI5d3B6eWZkYXNpaDRjc3lsM3JrM2N3bDdla3V5OWUwNjhiNXd3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dr1E6MHXSg52M/giphy.gif">
