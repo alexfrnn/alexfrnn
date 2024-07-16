@@ -24,7 +24,7 @@ I'm an undergrad Information Systems student. I'm currently learning Python, clo
 <details>
  <summary>🌿 Github Stats </summary>
  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alexfrnn&hide=issues,&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=a6e3a1&title_color=94e2d5&border_color=45475a&show_icons=true&include_all_commits=true" alt="alexfrnn's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexfrnn&hide=issues,&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=a6e3a1&title_color=94e2d5&border_color=45475a&show_icons=true" alt="alexfrnn's GitHub stats" />
  </p>
 </details>
 
