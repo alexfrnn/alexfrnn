@@ -10,15 +10,7 @@ I'm an undergrad Information Systems student and currently studying ~~slowly sel
 </summary>
 <a href="https://learn.microsoft.com/api/achievements/share/pt-br/alexfrnn/PT3DWVA4"><img src="https://learn.microsoft.com/en-us/training/achievements/github-universe-2023-cloud-skills-challenge.svg" alt="GitHub Universe 2023 Cloud Skills Challenge badge"/></a>
 </details>
-====================================
-<details>
-<summary>
-<b>
-📊 GitHub Stats
-</b>
-</summary>
  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alexfrnn&hide=issues,&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=a6e3a1&title_color=94e2d5&border_color=45475a&show_icons=true" alt="alexfrnn's GitHub stats" />
  </p>
 </details>
 
