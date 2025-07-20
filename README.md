@@ -1,6 +1,6 @@
 Hi there I'm Alex!
 =========================================================================================================
-I'm an undergrad Information Systems student and currently studying ~~slowly selling my soul~~ to Data Science. Python, SQL, and gcp, az and maybe aws are my new personality traits. Send help (or datasets)🙏.
+I'm an undergrad Information Systems student and currently business assistant ~~slowly selling my soul~~ to Data Science.
 
 <details>
 <summary>
