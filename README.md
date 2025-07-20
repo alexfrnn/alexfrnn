@@ -1,17 +1,14 @@
 Hi there I'm Alex!
 =========================================================================================================
-I'm an undergrad Information Systems student and currently business assistant ~~slowly selling my soul~~ to Data Science.
+I'm an undergrad Information Systems student and currently working as a Business Assistant<br>
+in the Telco and media sector at a consulting company,<br>
+supporting with business-related tasks for the process mining team. 
 
-<details>
-<summary>
-<b>
-🏅Badges
-</b>
-</summary>
-<a href="https://learn.microsoft.com/api/achievements/share/pt-br/alexfrnn/PT3DWVA4"><img src="https://learn.microsoft.com/en-us/training/achievements/github-universe-2023-cloud-skills-challenge.svg" alt="GitHub Universe 2023 Cloud Skills Challenge badge"/></a>
-</details>
- <p>
- </p>
-</details>
+<img width=40% height=100% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI5d3B6eWZkYXNpaDRjc3lsM3JrM2N3bDdla3V5OWUwNjhiNXd3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dr1E6MHXSg52M/giphy.gif" align="right">
+🧠  currently learning Python, SQL, GCP, bash
 
-<img width=40% height=100% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI5d3B6eWZkYXNpaDRjc3lsM3JrM2N3bDdla3V5OWUwNjhiNXd3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dr1E6MHXSg52M/giphy.gif">
+### Skills
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" title="Vue"/></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" title="Oracle"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a>
+</p>
