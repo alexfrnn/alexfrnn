@@ -2,10 +2,10 @@ Hi there I'm Alex!
 =========================================================================================================
 I'm an undergrad Information Systems student and currently working as a Business Assistant<br>
 in the Telco and media sector at a consulting company,<br>
-supporting with business-related tasks for the process mining team. 
+supporting with business-related tasks. 
 
 <img width=40% height=100% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI5d3B6eWZkYXNpaDRjc3lsM3JrM2N3bDdla3V5OWUwNjhiNXd3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dr1E6MHXSg52M/giphy.gif" align="right">
-🧠  currently learning Python, SQL, GCP, bash
+🧠  currently learning Linux, cloud computing and developing my devops skills
 
 ### Skills
 
