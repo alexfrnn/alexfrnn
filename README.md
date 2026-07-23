@@ -12,7 +12,7 @@ Interests in:
 - GCP
 - Azure
 
-<!-- <img width=40% height=100% src="" align="right"> -->
+<img width=8% height=15% src="https://github.githubassets.com/assets/shipit-ee78ea3eb431.png" align="right">
 
 ## Tech Stack:
 
