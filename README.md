@@ -1,4 +1,4 @@
-## Hi there I'm alex 🌁
+## Hi, I'm alex 🌁
 
 - ⚙️ I’m currently working on technology initiatives that drive business outcomes at consulting firm
 - 🧩 I’m currently learning cloud computing and exploring backend development
